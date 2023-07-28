@@ -1,6 +1,6 @@
- 👋 I'm Cody, I'm a software developer currently learning Python, C# and Vue.js while I finish up my bootcamp. \n
- 🔭 I’m currently working on polishing up my Twitter Bot that tracks Mythic Plus Dungeon leaderboards for WoW. \n
- 💬 Ask me about ways to adapt to the Twitter API changes. \n
+### 👋 I'm Cody, I'm a software developer currently learning Python, C# and Vue.js while I finish up my bootcamp. 
+ 🔭 I’m currently working on polishing up my Twitter Bot that tracks Mythic Plus Dungeon leaderboards for WoW. 
+ 💬 Ask me about ways to adapt to the Twitter API changes. 
  📫 How to reach me: LinkedIn
 <!--
 **coatycodes/coatycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
